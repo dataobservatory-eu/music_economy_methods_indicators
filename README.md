@@ -1,1 +1,1 @@
-# Report on the European Music Economy
+# Music Economy: Methods & Indicators
