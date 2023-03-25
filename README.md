@@ -1,5 +1,7 @@
 # Music Economy: Methods & Indicators
 
+Fundiing: [Grant agreement ID: 101095295](https://cordis.europa.eu/project/id/101095295)
+
 Indicators that capture the economic value of music in Europe are developed.
 - Indicators developed in the Central European Music Industry Report are refined (which made use of 300 million
 individual royalty statements).
